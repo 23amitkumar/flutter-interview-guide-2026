@@ -3732,5 +3732,4 @@ This guide covers Junior-level (0-2 years) Flutter interview questions:
 
 ---
 
-**License**: MIT  
 **Maintained by**: [23amitkumar](https://github.com/23amitkumar)

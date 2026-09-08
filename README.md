@@ -3,7 +3,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Questions](https://img.shields.io/badge/Questions-100-orange?style=for-the-badge)
 
 **The most comprehensive Flutter interview preparation guide for 2026**
@@ -300,20 +299,14 @@ Contributions are welcome! Here's how you can help:
 git clone https://github.com/23amitkumar/flutter-interview-guide-2026.git
 
 # Create a branch
-git checkout -b feature/improve-question-42
+git checkout -b feature/add-new-topic
 
 # Make changes and commit
-git commit -m "Improve explanation for BLoC pattern"
+git commit -m "Add new interview topic and examples"
 
 # Push and create PR
-git push origin feature/improve-question-42
+git push origin feature/add-new-topic
 ```
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
