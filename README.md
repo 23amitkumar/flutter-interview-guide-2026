@@ -1,9 +1,10 @@
 # 🚀 Flutter Interview Guide 2026
 
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.27%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.6%2B-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Questions](https://img.shields.io/badge/Questions-100-orange?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
 
 **The most comprehensive Flutter interview preparation guide for 2026**
 
@@ -318,13 +319,14 @@ git push origin feature/add-new-topic
 
 ---
 
-## ⭐ Support
+## ⭐ Support & Connect
 
 If this guide helped you, please:
 
-- ⭐ **Star this repository**
+- ⭐ **Star this repository** to save it for quick reference
 - 💼 **Share on LinkedIn**
 - 📧 **Share with friends preparing for interviews**
+- 🐙 **Follow [@23amitkumar](https://github.com/23amitkumar)** on GitHub
 
 ---
 
